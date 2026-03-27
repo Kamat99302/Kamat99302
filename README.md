@@ -12,7 +12,7 @@ Je suis actuellement à la recherche d’une **alternance de 12 mois en Dévelop
 - Vite, Storybook, Figma, Git
 
 ### Projets
-- **[Matt’s Diner](https://matts-dinner.netlify.app/)** (application kiosk pour commande en restaurant + librairie de composants publiée sur npm)
+- **[Matt’s Diner](https://matts-dinner.netlify.app/)** (application kiosk pour commande en restaurant + librairie de composants [publiée sur npm](https://www.npmjs.com/package/matts-dinner-component-library)
 - **[Quizzical](https://quizzquestmatt.netlify.app/)** (quiz interactif avec API)
 - **[Movie Watchlist](https://film-watchlist-matt.netlify.app/)** (liste de films avec recherche et gestion en JavaScript vanilla)
 
