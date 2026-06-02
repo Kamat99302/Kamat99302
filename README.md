@@ -2,7 +2,7 @@ Hello! 👋
 Je suis Matthieu Juan, développeur front-end React.
 Après un BTS SIO et une formation intensive en React & JavaScript, je crée des interfaces utilisateur modernes et intuitives. Je me forme actuellement au back-end (Node.js, Express) pour évoluer vers un profil full-stack orienté front-end.
 
-Je suis actuellement à la recherche d'une **alternance de 12 mois en Développement Front-End/FullStack** dès **septembre 2026** (mobile France entière).
+Je suis actuellement en **alternance** chez **[Oris Material Intelligence](https://www.oris-connect.com/en/))**
 
 ### Ma stack
 - React 19
@@ -16,5 +16,4 @@ Je suis actuellement à la recherche d'une **alternance de 12 mois en Développe
 - **[Movie Watchlist](https://film-watchlist-matt.netlify.app/)** (liste de films avec recherche et gestion en JavaScript vanilla)
 
 Vous pouvez voir tous mes projets sur mon [portfolio](https://portfoliomattreact.netlify.app/).
-N'hésitez pas à me contacter si vous avez une opportunité d'alternance !
 📧 mjuandev@gmail.com
