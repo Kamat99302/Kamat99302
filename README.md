@@ -2,7 +2,7 @@ Hello! 👋
 Je suis Matthieu Juan, développeur front-end React.
 Après un BTS SIO et une formation intensive en React & JavaScript, je crée des interfaces utilisateur modernes et intuitives. Je me forme actuellement au back-end (Node.js, Express) pour évoluer vers un profil full-stack orienté front-end.
 
-Je suis actuellement en **alternance** chez **[Oris Material Intelligence](https://www.oris-connect.com/en/))**
+Je suis actuellement en **alternance** chez **[Oris Material Intelligence](https://www.oris-connect.com/en/)**
 
 ### Ma stack
 - React 19
